@@ -35,7 +35,7 @@ int main (int argc, char ** argv) {
     glutInitWindowPosition(-1, -1);
     glutInitWindowSize(WindowWidth, WindowHeight);
     glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGBA | GLUT_DEPTH);
-    int window = glutCreateWindow("Gráficos por Computador: Práctica 1");
+    int window = glutCreateWindow("Computer Graphics: Practice 1");
 
     // Setting the events:
     glutDisplayFunc(OnRender);

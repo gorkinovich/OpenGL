@@ -1,0 +1,9 @@
+[Bb]in/*.exe
+[Bb]in/*.ilk
+[Bb]in/*.pdb
+freeglut project 3D/[Dd]ebug
+freeglut project 3D/[Rr]elease
+ipch
+*.opensdf
+*.sdf
+*.suo
